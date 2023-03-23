@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 
 -->
-🔭 I’m currently working on improving my Frontend Development Skills
-🌱 I’m currently learning Advanced Javascript
-💥 Future goals: learn React.js || Vue.js || Next.js || maybe fullstack
-👯 I’m looking to collaborate on Frontend development projects
-🤔 I’m looking for help with how to become a best frontend developer
-💬 Ask me about anything on gmail
+🔭 I’m currently working on improving my Frontend Development Skills 
+
 📫 How to reach me: ayezabashir46@gmail.com
-😄 Pronouns: she/her 
-⚡ Fun fact: You can make your github account animated by naming a new repo after your username (¬‿¬)
+
+😄 Pronouns: she/her (¬‿¬)
+
+⚡ Fun fact: I am Capricorn 😁😁
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayezabashir&show_icons=true"/>
