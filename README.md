@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
+<p align="center">
 🔭 I’m currently working on improving my Frontend Development Skills 
 📫 How to reach me: ayezabashir46@gmail.com
 😄 Pronouns: she/her (¬‿¬)
@@ -24,10 +25,9 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayezabashir&show_icons=true&theme=dark"/>
-<table>
-  <tbody>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayezabashir&show_icons=true&theme=dark"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayezabashir&layout=compact"/></td>
-  </tbody>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayezabashir&show_icons=true&theme=tokyonight"/>
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayezabashir&show_icons=true&theme=tokyonight"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayezabashir&hide_progress=true&layout=compact&theme=tokyonight"/>
+
+</p>
