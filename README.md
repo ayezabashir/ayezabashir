@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" height="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
 </p>
@@ -38,3 +38,10 @@ Here are some ideas to get you started:
   </tr>
 </table>
 </p>
+
+<style>
+ .markdown-body table th, .markdown-body table td {
+    padding: 0px ;
+    border: 0px;
+}
+ </style>
