@@ -31,12 +31,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=ayezabashir&show_icons=true&theme=tokyonight"/>
  </p>
-<table>
- <tbody>
-  <tr>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayezabashir&show_icons=true&theme=tokyonight"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayezabashir&layout=compact&theme=tokyonight"/></td>
+<table width="100%"  style="border:0px solid white; width:100%;">
+  <tr style="border: 0px;">
+<td width="70%" style="border:0px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayezabashir&show_icons=true&theme=tokyonight"/></td>
+<td width="30%" style="border:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayezabashir&layout=compact&theme=tokyonight"/></td>
   </tr>
-  <tbody>
 </table>
 </p>
