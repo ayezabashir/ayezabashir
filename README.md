@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 <p>📫 How to reach me: ayezabashir46@gmail.com </p>
 <p>😄 Pronouns: she/her (¬‿¬)</p>
 <p>⚡ Fun fact: I am Capricorn 😁😁</p>
+<p>![](https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS)</p>
 
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
