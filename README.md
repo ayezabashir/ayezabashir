@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-🔭 I’m currently working on improving my Frontend Development Skills </br>
-📫 How to reach me: ayezabashir46@gmail.com</br>
-😄 Pronouns: she/her (¬‿¬) </br>
-⚡ Fun fact: I am Capricorn 😁😁</br>
+<p>🔭 I’m currently working on improving my Frontend Development Skills </p>
+<p>📫 How to reach me: ayezabashir46@gmail.com </p>
+<p>😄 Pronouns: she/her (¬‿¬) </p>
+<p>⚡ Fun fact: I am Capricorn 😁😁</p>
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
 <h1 align="center">Languages and Tools</h1>
