@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <p>🔭 I’m currently working on improving my Frontend Development Skills </p>
-<p>📫 How to reach me: <a>ayezabashir46@gmail.com</a> </p>
+<p>📫 How to reach me: ayezabashir46@gmail.com </p>
 <p>⚡ Fun fact: I am Capricorn 😁😁</p>
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
