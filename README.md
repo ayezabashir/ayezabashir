@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer || Frontend Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working Frontend Development.<br>🌱 I’m currently learning Typescript and NextJS.<br>📫 How to reach me **ayezabashir46@gmail.com**<br>💬 Ask me about UI/UX, front-end development.<br>⚡ I try to solve LeetCode problems to improve Logic Building.
+🔭 I’m working on Frontend Development.<br>🌱 I’m currently learning Typescript and NextJS.<br>📫 How to reach me **ayezabashir46@gmail.com**<br>💬 Ask me about UI/UX, front-end development.<br>⚡ I try to solve LeetCode problems to improve Logic Building.
 
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
