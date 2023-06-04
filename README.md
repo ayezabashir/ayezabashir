@@ -3,16 +3,16 @@
 <h3 align="center">Software Engineer || Frontend Developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Typescript and ReactJS.<br>💬 Ask me about UI/UX, front-end development.<br>⚡ AI is not dangerous
+🌱 I’m currently learning Typescript.<br>💬 Ask me about UI/UX, front-end development.<br>⚡ AI is not dangerous
 
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
 # 🌐 Socials:
 
 <p align="left">
-<a href="https://codepen.io/ayezabashir442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayezabashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayezabashir/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayezabashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="30" width="40" /></a>
+<a href="https://codepen.io/ayezabashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayezabashir/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -33,5 +33,5 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ayezabashir&theme=omni&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ayezabashir&theme=omni&no-frame=true&no-bg=false&margin-w=3)
 
