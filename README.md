@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer || Frontend Developer</h3>
 
 # 💫 About Me:
-I am dedicated to honing my abilities and collaborating with experienced professionals to improve my skills. I take pride in my attention to detail and strive to deliver visually appealing and user-friendly interfaces. Committed to continuous learning and growth, I am excited to contribute to the development of innovative web applications. <br/><br/>
+I'm a frontend enthusiast with a Bachelor's degree in Software Engineering. Passionate about creating visually appealing and user-friendly interfaces, I thrive on refining the smallest design details to enhance user experiences. I'm committed to continuous learning, always exploring new ways to stay at the forefront of frontend technologies. Excited by innovation and driven by growth, I'm eager to contribute my skills to building modern web applications. <br/><br/>
 🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>⚡ AI is not dangerous
 
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
