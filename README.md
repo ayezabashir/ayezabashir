@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer || Frontend Developer</h3>
 
 # 💫 About Me:
-🙋🏻‍♀️ I'm a frontend enthusiast, passionate about creating visually appealing and user-friendly interfaces 💻 , I thrive on refining the smallest design details to enhance user experiences. I'm committed to continuous learning ✍🏻, always exploring new ways to stay at the forefront of frontend technologies.
+🙋🏻‍♀️ I'm a frontend enthusiast, passionate about creating user-friendly interfaces 💻 , I thrive on refining the smallest design details to enhance user experiences. I'm committed to continuous learning ✍🏻, always exploring new ways to stay at the forefront of frontend technologies.
 <br/>
 
-👩🏻‍🎓 I'm currently doing MPhil in Software Engineering.<br>🔭 I'm currently working on building my portfolio website.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>⚡ AI is not dangerous
+🔭 I'm currently working on building my portfolio website.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>⚡ AI is not dangerous
 
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
