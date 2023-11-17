@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayeza </h1>
 <h3 align="center">Software Engineer || Frontend Developer</h3>
 
-# 💫 About Me:
+![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/ayezabashir/ayezabashir/assets/115556300/97fdca5a-bda5-4e8e-b149-6f401a0f48fa)
 
 🔭 I'm currently doing MPhil in Software Engineering.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>📫 How to reach me  <a href="mailto:ayezabashir46@gmail.com">ayezabashir46@gmail.com</a> <br>⚡ AI is not dangerous
 
