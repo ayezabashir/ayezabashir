@@ -4,12 +4,11 @@
 
 ![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/ayezabashir/ayezabashir/assets/115556300/996f6136-b207-42b5-925d-55b11c89e8a0)
 
-🔭 I'm currently doing MPhil in Software Engineering.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>📫 How to reach me  <a href="mailto:ayezabashir46@gmail.com">ayezabashir46@gmail.com</a> <br>⚡ AI is not dangerous
+🔭 I'm currently doing an MPhil in Software Engineering.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>📫 How to reach me  <a href="mailto:ayezabashir46@gmail.com">ayezabashir46@gmail.com</a> <br>⚡ AI is not dangerous
 
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
 # 🌐 Socials:
-![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/ayezabashir/ayezabashir/assets/115556300/a03f9ef7-4787-4fd3-8ac0-be9fa1c6a064)
 <p align="left">
 <a href="https://codepen.io/ayezabashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="50" width="60" /></a>
 <a href="https://www.leetcode.com/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="50" width="60" /></a>
