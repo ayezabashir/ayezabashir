@@ -10,10 +10,10 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://codepen.io/ayezabashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="50" width="60" /></a>
-<a href="https://www.leetcode.com/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayezabashir/" height="50" width="60" /></a>
-  <br><br><br>
+<a href="https://codepen.io/ayezabashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayezabashir/" height="30" width="40" /></a>
+  <br>
 </p>
 
 # 💻 Tech Stack:
