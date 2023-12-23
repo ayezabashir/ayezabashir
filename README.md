@@ -13,6 +13,7 @@
 <a href="https://codepen.io/ayezabashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayezabashir/" height="30" width="40" /></a>
+ <a href="https://discordapp.com/users/1071491930590023700" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" height="30" width="40" alt="discord"></a>
   <br>
 </p>
 
