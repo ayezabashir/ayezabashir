@@ -4,7 +4,7 @@
 
 ![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/ayezabashir/ayezabashir/assets/115556300/996f6136-b207-42b5-925d-55b11c89e8a0)
 
-🔭 I'm currently doing an MPhil in Software Engineering.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>📫 How to reach me  <a href="mailto:ayezabashir46@gmail.com">ayezabashir46@gmail.com</a> <br>⚡ AI is not dangerous
+🔭 I'm currently doing an MPhil in Software Engineering.<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about UI/UX, and front-end development.<br>📫 How to reach me  <a href="mailto:ayezabashir46@gmail.com">ayezabashir46@gmail.com</a> <br>📄 <a href="https://ayeza-bashir-portfolio.vercel.app/">My Portfolio Website</a>
 
 <p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
 
