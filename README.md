@@ -28,7 +28,9 @@
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayezabashir&theme=omni&hide_border=false"/></p>
-
+<p align="center" href="https://github.com/ayezabashir/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayezabashir&theme=omni&&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 
