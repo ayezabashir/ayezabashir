@@ -1,12 +1,4 @@
 
-<h1 align="center">Hi 🙋🏻‍♀️, I'm Ayeza Bashir</h1>
-<h3 align="center">Software Engineer</h3>
-
-
-🔭 I'm currently doing an MPhil in Software Engineering.<br>💬 Ask me about web development.<br>📫 How to reach me  <a href="mailto:ayezabashir46@gmail.com">ayezabashir46@gmail.com</a> <br>
-
-<p><img src="https://komarev.com/ghpvc/?username=ayezabashir&color=green&style=for-the-badge&label=PROFILE+VIEWS" /></p>
-
 <p align="left">
 <a href="https://codepen.io/ayezabashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayezabashir442" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayezabashir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayezabashir/" height="30" width="40" /></a>
