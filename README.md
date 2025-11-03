@@ -21,6 +21,11 @@ Leetcode
   <br>
 </p>
 
+
+### 🧠 My Skills
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### 👨‍💻 Repositories
 
 <table>
@@ -30,382 +35,527 @@ Leetcode
       <th>Github</th>
       <th>Live</th>
       <th>Stars</th>
+      <th>Repository</th>
+      <th>Github</th>
+      <th>Live</th>
+      <th>Stars</th>
     </tr>
   </thead>
   <tbody align="left">
-  <tr>
+    <tr>
+      <th>advance weather app</th>
       <th>
-        advance weather app
+        <a
+          href="https://github.com/ayezabashir/Advance-Weather-App"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Advance-Weather-App" target="_blank">Github Link</a>
+        <a href="https://advance-weather-app-theta.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://advance-weather-app-theta.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Advance-Weather-App?style=flat"
+          alt=""
+        />
+      </th>
+      <th>shopping cart</th>
+      <th>
+        <a href="https://github.com/ayezabashir/Shopping-Cart" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/ayezabashir/Advance-Weather-App?style=flat" alt="" />
+        <a href="https://shopping-cart-xi-three-20.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Shopping-Cart?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>portfolio</th>
       <th>
-        shopping cart
+        <a href="https://github.com/ayezabashir/My-Portfolio" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Shopping-Cart" target="_blank">Github Link</a>
+        <a href="https://ayeza-bashir-portfolio.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://shopping-cart-xi-three-20.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/My-Portfolio?style=flat"
+          alt=""
+        />
+      </th>
+      <th>flight book website</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/ReactJS-FlightBookingLandingPage"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Shopping-Cart?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        portfolio
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/My-Portfolio" target="_blank">Github Link</a>
+        <a
+          href="https://landing-page-flight-booking-website.vercel.app/"
+          target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://ayeza-bashir-portfolio.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/My-Portfolio?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        flight book website
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/ReactJS-FlightBookingLandingPage" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://landing-page-flight-booking-website.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/ReactJS-FlightBookingLandingPage?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/ReactJS-FlightBookingLandingPage?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>podia digital producst</th>
       <th>
-        podia digital producst
+        <a
+          href="https://github.com/ayezabashir/podia-digitalProducts"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/podia-digitalProducts" target="_blank">Github Link</a>
+        <a href="https://podia-digital-products.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://podia-digital-products.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/podia-digitalProducts?style=flat"
+          alt=""
+        />
+      </th>
+      <th>programming problems</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/Programming_Problems_Solved_Using_Javascript"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/podia-digitalProducts?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        programming problems
+        <a href="https://leetcode.com/u/ayezabashir/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Programming_Problems_Solved_Using_Javascript" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://leetcode.com/u/ayezabashir/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Programming_Problems_Solved_Using_Javascript?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        cryptocurrency search
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/Crytpocurrency-Search" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://crytpocurrency-search.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Crytpocurrency-Search?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Programming_Problems_Solved_Using_Javascript?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>cryptocurrency search</th>
       <th>
-        web automation & scraping
+        <a
+          href="https://github.com/ayezabashir/Crytpocurrency-Search"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/WebAutomationAndScraping" target="_blank">Github Link</a>
+        <a href="https://crytpocurrency-search.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/WebAutomationAndScraping" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Crytpocurrency-Search?style=flat"
+          alt=""
+        />
+      </th>
+      <th>web automation & scraping</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/WebAutomationAndScraping"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/WebAutomationAndScraping?style=flat" alt="" />
+        <a
+          href="https://github.com/ayezabashir/WebAutomationAndScraping"
+          target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/WebAutomationAndScraping?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>javascript projects</th>
       <th>
-        javascript projects
+        <a
+          href="https://github.com/ayezabashir/Vanilla-Javascript-Projects"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Vanilla-Javascript-Projects" target="_blank">Github Link</a>
+        <a
+          href="https://github.com/ayezabashir/Vanilla-Javascript-Projects"
+          target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Vanilla-Javascript-Projects" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Vanilla-Javascript-Projects?style=flat"
+          alt=""
+        />
+      </th>
+      <th>LULC classification</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/land-use-land-cover-classification"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Vanilla-Javascript-Projects?style=flat" alt="" />
+        <a
+          href="https://github.com/ayezabashir/land-use-land-cover-classification"
+          target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/land-use-land-cover-classification?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>gpt-zero</th>
       <th>
-        LULC classification
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/land-use-land-cover-classification" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/land-use-land-cover-classification" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/land-use-land-cover-classification?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        gpt-zero
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/gpt-zero" target="_blank">Github Link</a>
+        <a href="https://github.com/ayezabashir/gpt-zero" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
         <a href="https://gpt-zero-mu.vercel.app/" target="_blank">Visit Link</a>
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/gpt-zero?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/gpt-zero?style=flat"
+          alt=""
+        />
+      </th>
+      <th>get an intervention</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/Get-an-Intervention"
+          target="_blank"
+          >Github Link</a
+        >
+      </th>
+      <th>
+        <a href="https://get-an-intervention-nine.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Get-an-Intervention?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>codepen clone</th>
       <th>
-        get an intervention
+        <a href="https://github.com/ayezabashir/codepen-clone" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Get-an-Intervention" target="_blank">Github Link</a>
+        <a
+          href="https://codepen-clone-pied-kappa.vercel.app/home/auth"
+          target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://get-an-intervention-nine.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/codepen-clone?style=flat"
+          alt=""
+        />
+      </th>
+      <th>reactjs components</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/ReactJs-Mini-Projects"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Get-an-Intervention?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        codepen clone
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/codepen-clone" target="_blank">Github Link</a>
+        <a
+          href="https://github.com/ayezabashir/ReactJs-Mini-Projects"
+          target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://codepen-clone-pied-kappa.vercel.app/home/auth" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/codepen-clone?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        reactjs components
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/ReactJs-Mini-Projects" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/ReactJs-Mini-Projects" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/ReactJs-Mini-Projects?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        fashion studio
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/Fashion-Studio" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://fashion-studio-neon.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Fashion-Studio?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/ReactJs-Mini-Projects?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>fashion studio</th>
       <th>
-        hala chato
+        <a href="https://github.com/ayezabashir/Fashion-Studio" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/HalaChat" target="_blank">Github Link</a>
+        <a href="https://fashion-studio-neon.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Fashion-Studio?style=flat"
+          alt=""
+        />
+      </th>
+      <th>hala chato</th>
+      <th>
+        <a href="https://github.com/ayezabashir/HalaChat" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
         <a href="https://hala-chat.vercel.app/" target="_blank">Visit Link</a>
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/HalaChat?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/HalaChat?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>backstage talk magazine</th>
       <th>
-        backstage talk magazine
+        <a
+          href="https://github.com/ayezabashir/backstage-talk-magazine-clone"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/backstage-talk-magazine-clone" target="_blank">Github Link</a>
+        <a
+          href="https://backstage-talk-magazine-clone.vercel.app/"
+          target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://backstage-talk-magazine-clone.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/backstage-talk-magazine-clone?style=flat"
+          alt=""
+        />
+      </th>
+      <th>booknest</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/BookNest-SearchBooks"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/backstage-talk-magazine-clone?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        booknest
+        <a href="https://book-nest-search-books.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/BookNest-SearchBooks" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://book-nest-search-books.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/BookNest-SearchBooks?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        ableton
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/Ableton-Clone" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://ableton-clone-six.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Ableton-Clone?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        blog website
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/ReactJS-BlogWebssite" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://react-js-blog-webssite.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/ReactJS-BlogWebssite?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/BookNest-SearchBooks?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>ableton</th>
       <th>
-        async js
+        <a href="https://github.com/ayezabashir/Ableton-Clone" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank">Github Link</a>
+        <a href="https://ableton-clone-six.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Ableton-Clone?style=flat"
+          alt=""
+        />
+      </th>
+      <th>blog website</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/ReactJS-BlogWebssite"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/aynchronous-JS?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        JS Challenges
+        <a href="https://react-js-blog-webssite.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/JS-Challenges" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/JS-Challenges" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/JS-Challenges?style=flat" alt="" />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        to do list
-      </th>
-      <th>
-        <a href="https://github.com/ayezabashir/ReactJS-ToDoList" target="_blank">Github Link</a>
-      </th>
-      <th>
-        <a href="https://react-js-to-do-list-one.vercel.app/" target="_blank">Visit Link</a>
-      </th>
-      <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/ReactJS-ToDoList?style=flat" alt="" />
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/ReactJS-BlogWebssite?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>async js</th>
       <th>
-        movie listings
+        <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/jQuery-MovieListings" target="_blank">Github Link</a>
+        <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/jQuery-MovieListings" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/aynchronous-JS?style=flat"
+          alt=""
+        />
+      </th>
+      <th>JS Challenges</th>
+      <th>
+        <a href="https://github.com/ayezabashir/JS-Challenges" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/jQuery-MovieListings?style=flat" alt="" />
+        <a href="https://github.com/ayezabashir/JS-Challenges" target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/JS-Challenges?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>to do list</th>
       <th>
-        card matching game
+        <a
+          href="https://github.com/ayezabashir/ReactJS-ToDoList"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/Card-Matching-Game" target="_blank">Github Link</a>
+        <a href="https://react-js-to-do-list-one.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://card-matching-game-black.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/ReactJS-ToDoList?style=flat"
+          alt=""
+        />
+      </th>
+      <th>movie listings</th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/jQuery-MovieListings"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/Card-Matching-Game?style=flat" alt="" />
+        <a
+          href="https://github.com/ayezabashir/jQuery-MovieListings"
+          target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/jQuery-MovieListings?style=flat"
+          alt=""
+        />
       </th>
     </tr>
     <tr>
+      <th>card matching game</th>
       <th>
-        news webpage
+        <a
+          href="https://github.com/ayezabashir/Card-Matching-Game"
+          target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/NewsWebpage" target="_blank">Github Link</a>
+        <a href="https://card-matching-game-black.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
       </th>
       <th>
-        <a href="https://news-webpage-blue.vercel.app/" target="_blank">Visit Link</a>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Card-Matching-Game?style=flat"
+          alt=""
+        />
+      </th>
+      <th>news webpage</th>
+      <th>
+        <a href="https://github.com/ayezabashir/NewsWebpage" target="_blank"
+          >Github Link</a
+        >
       </th>
       <th>
-         <img src="https://img.shields.io/github/stars/ayezabashir/NewsWebpage?style=flat" alt="" />
+        <a href="https://news-webpage-blue.vercel.app/" target="_blank"
+          >Visit Link</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/NewsWebpage?style=flat"
+          alt=""
+        />
       </th>
     </tr>
-
   </tbody>
 </table>
-
-
-### 🧠 My Skills
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 
 
 ### 📊 GitHub Stats
