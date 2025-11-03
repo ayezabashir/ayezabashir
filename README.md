@@ -50,7 +50,7 @@ Leetcode
       </th>
       <th>
         <a href="https://advance-weather-app-theta.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -66,7 +66,7 @@ Leetcode
       </th>
       <th>
         <a href="https://shopping-cart-xi-three-20.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -84,7 +84,7 @@ Leetcode
       </th>
       <th>
         <a href="https://ayeza-bashir-portfolio.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -104,7 +104,7 @@ Leetcode
         <a
           href="https://landing-page-flight-booking-website.vercel.app/"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -124,7 +124,7 @@ Leetcode
       </th>
       <th>
         <a href="https://podia-digital-products.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -142,7 +142,7 @@ Leetcode
       </th>
       <th>
         <a href="https://leetcode.com/u/ayezabashir/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -162,7 +162,7 @@ Leetcode
       </th>
       <th>
         <a href="https://crytpocurrency-search.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -182,7 +182,7 @@ Leetcode
         <a
           href="https://github.com/ayezabashir/WebAutomationAndScraping"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -204,7 +204,7 @@ Leetcode
         <a
           href="https://github.com/ayezabashir/Vanilla-Javascript-Projects"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -224,7 +224,7 @@ Leetcode
         <a
           href="https://github.com/ayezabashir/land-use-land-cover-classification"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -241,7 +241,7 @@ Leetcode
         >
       </th>
       <th>
-        <a href="https://gpt-zero-mu.vercel.app/" target="_blank">Visit Link</a>
+        <a href="https://gpt-zero-mu.vercel.app/" target="_blank">Live Link</a>
       </th>
       <th>
         <img
@@ -258,7 +258,7 @@ Leetcode
       </th>
       <th>
         <a href="https://get-an-intervention-nine.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -278,7 +278,7 @@ Leetcode
         <a
           href="https://codepen-clone-pied-kappa.vercel.app/home/auth"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -298,7 +298,7 @@ Leetcode
         <a
           href="https://github.com/ayezabashir/ReactJs-Mini-Projects"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -316,7 +316,7 @@ Leetcode
       </th>
       <th>
         <a href="https://fashion-studio-neon.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -331,7 +331,7 @@ Leetcode
         >
       </th>
       <th>
-        <a href="https://hala-chat.vercel.app/" target="_blank">Visit Link</a>
+        <a href="https://hala-chat.vercel.app/" target="_blank">Live Link</a>
       </th>
       <th>
         <img
@@ -352,7 +352,7 @@ Leetcode
         <a
           href="https://backstage-talk-magazine-clone.vercel.app/"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -370,7 +370,7 @@ Leetcode
       </th>
       <th>
         <a href="https://book-nest-search-books.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -388,7 +388,7 @@ Leetcode
       </th>
       <th>
         <a href="https://ableton-clone-six.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -406,7 +406,7 @@ Leetcode
       </th>
       <th>
         <a href="https://react-js-blog-webssite.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -424,7 +424,7 @@ Leetcode
       </th>
       <th>
         <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -440,7 +440,7 @@ Leetcode
       </th>
       <th>
         <a href="https://github.com/ayezabashir/JS-Challenges" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -460,7 +460,7 @@ Leetcode
       </th>
       <th>
         <a href="https://react-js-to-do-list-one.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -480,7 +480,7 @@ Leetcode
         <a
           href="https://github.com/ayezabashir/jQuery-MovieListings"
           target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -500,7 +500,7 @@ Leetcode
       </th>
       <th>
         <a href="https://card-matching-game-black.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
@@ -516,7 +516,7 @@ Leetcode
       </th>
       <th>
         <a href="https://news-webpage-blue.vercel.app/" target="_blank"
-          >Visit Link</a
+          >Live Link</a
         >
       </th>
       <th>
