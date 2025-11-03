@@ -16,6 +16,9 @@
 </a> 💫
 <a href="https://www.leetcode.com/ayezabashir/" target="_blank">
 Leetcode
+</a> 💫
+<a href="https://ayeza-bashir-portfolio.vercel.app/" target="_blank">
+Portfolio
 </a> 
   <br>
   <br>
@@ -31,10 +34,10 @@ Leetcode
 <table>
   <thead align="center">
     <tr>
-      <th>Repository</th>
+      <th>Github Repo</th>
       <th>Live</th>
       <th>Stars</th>
-      <th>Repository</th>
+      <th>Github Repo</th>
       <th>Live</th>
       <th>Stars</th>
     </tr>
