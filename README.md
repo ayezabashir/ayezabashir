@@ -32,23 +32,20 @@ Leetcode
   <thead align="center">
     <tr>
       <th>Repository</th>
-      <th>Github</th>
       <th>Live</th>
       <th>Stars</th>
       <th>Repository</th>
-      <th>Github</th>
       <th>Live</th>
       <th>Stars</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
-      <th>advance weather app</th>
       <th>
         <a
           href="https://github.com/ayezabashir/Advance-Weather-App"
           target="_blank"
-          >Github Link</a
+          >advance weather app</a
         >
       </th>
       <th>
@@ -62,10 +59,9 @@ Leetcode
           alt=""
         />
       </th>
-      <th>shopping cart</th>
       <th>
         <a href="https://github.com/ayezabashir/Shopping-Cart" target="_blank"
-          >Github Link</a
+          >shopping cart</a
         >
       </th>
       <th>
@@ -81,10 +77,9 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>portfolio</th>
       <th>
         <a href="https://github.com/ayezabashir/My-Portfolio" target="_blank"
-          >Github Link</a
+          >portfolio</a
         >
       </th>
       <th>
@@ -98,12 +93,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>flight book website</th>
       <th>
         <a
           href="https://github.com/ayezabashir/ReactJS-FlightBookingLandingPage"
           target="_blank"
-          >Github Link</a
+          >flight book website</a
         >
       </th>
       <th>
@@ -121,12 +115,11 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>podia digital producst</th>
       <th>
         <a
           href="https://github.com/ayezabashir/podia-digitalProducts"
           target="_blank"
-          >Github Link</a
+          >podia digital product</a
         >
       </th>
       <th>
@@ -140,12 +133,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>programming problems</th>
       <th>
         <a
           href="https://github.com/ayezabashir/Programming_Problems_Solved_Using_Javascript"
           target="_blank"
-          >Github Link</a
+          >programming problems</a
         >
       </th>
       <th>
@@ -161,12 +153,11 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>cryptocurrency search</th>
       <th>
         <a
           href="https://github.com/ayezabashir/Crytpocurrency-Search"
           target="_blank"
-          >Github Link</a
+          >cryptocurrency search</a
         >
       </th>
       <th>
@@ -180,12 +171,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>web automation & scraping</th>
       <th>
         <a
           href="https://github.com/ayezabashir/WebAutomationAndScraping"
           target="_blank"
-          >Github Link</a
+          >web automation & scraping</a
         >
       </th>
       <th>
@@ -203,12 +193,11 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>javascript projects</th>
       <th>
         <a
           href="https://github.com/ayezabashir/Vanilla-Javascript-Projects"
           target="_blank"
-          >Github Link</a
+          >javascript projects</a
         >
       </th>
       <th>
@@ -224,12 +213,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>LULC classification</th>
       <th>
         <a
           href="https://github.com/ayezabashir/land-use-land-cover-classification"
           target="_blank"
-          >Github Link</a
+          >LULC classification</a
         >
       </th>
       <th>
@@ -247,10 +235,9 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>gpt-zero</th>
       <th>
         <a href="https://github.com/ayezabashir/gpt-zero" target="_blank"
-          >Github Link</a
+          >gpt-zero</a
         >
       </th>
       <th>
@@ -262,12 +249,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>get an intervention</th>
       <th>
         <a
           href="https://github.com/ayezabashir/Get-an-Intervention"
           target="_blank"
-          >Github Link</a
+          >get an intervention</a
         >
       </th>
       <th>
@@ -283,10 +269,9 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>codepen clone</th>
       <th>
         <a href="https://github.com/ayezabashir/codepen-clone" target="_blank"
-          >Github Link</a
+          >codepen clone</a
         >
       </th>
       <th>
@@ -302,12 +287,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>reactjs components</th>
       <th>
         <a
           href="https://github.com/ayezabashir/ReactJs-Mini-Projects"
           target="_blank"
-          >Github Link</a
+          >reactjs projects</a
         >
       </th>
       <th>
@@ -325,10 +309,9 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>fashion studio</th>
       <th>
         <a href="https://github.com/ayezabashir/Fashion-Studio" target="_blank"
-          >Github Link</a
+          >fashion studio</a
         >
       </th>
       <th>
@@ -342,10 +325,9 @@ Leetcode
           alt=""
         />
       </th>
-      <th>hala chato</th>
       <th>
         <a href="https://github.com/ayezabashir/HalaChat" target="_blank"
-          >Github Link</a
+          >hala chat</a
         >
       </th>
       <th>
@@ -359,12 +341,11 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>backstage talk magazine</th>
       <th>
         <a
           href="https://github.com/ayezabashir/backstage-talk-magazine-clone"
           target="_blank"
-          >Github Link</a
+          >backstage talk magazine</a
         >
       </th>
       <th>
@@ -380,12 +361,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>booknest</th>
       <th>
         <a
           href="https://github.com/ayezabashir/BookNest-SearchBooks"
           target="_blank"
-          >Github Link</a
+          >booknest</a
         >
       </th>
       <th>
@@ -401,10 +381,9 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>ableton</th>
       <th>
         <a href="https://github.com/ayezabashir/Ableton-Clone" target="_blank"
-          >Github Link</a
+          >ableton</a
         >
       </th>
       <th>
@@ -418,12 +397,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>blog website</th>
       <th>
         <a
           href="https://github.com/ayezabashir/ReactJS-BlogWebssite"
           target="_blank"
-          >Github Link</a
+          >blog website</a
         >
       </th>
       <th>
@@ -439,10 +417,9 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>async js</th>
       <th>
         <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank"
-          >Github Link</a
+          >async js</a
         >
       </th>
       <th>
@@ -456,10 +433,9 @@ Leetcode
           alt=""
         />
       </th>
-      <th>JS Challenges</th>
       <th>
         <a href="https://github.com/ayezabashir/JS-Challenges" target="_blank"
-          >Github Link</a
+          >JS Challenges</a
         >
       </th>
       <th>
@@ -475,12 +451,11 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>to do list</th>
       <th>
         <a
           href="https://github.com/ayezabashir/ReactJS-ToDoList"
           target="_blank"
-          >Github Link</a
+          >to do list</a
         >
       </th>
       <th>
@@ -494,12 +469,11 @@ Leetcode
           alt=""
         />
       </th>
-      <th>movie listings</th>
       <th>
         <a
           href="https://github.com/ayezabashir/jQuery-MovieListings"
           target="_blank"
-          >Github Link</a
+          >movie listings</a
         >
       </th>
       <th>
@@ -517,12 +491,11 @@ Leetcode
       </th>
     </tr>
     <tr>
-      <th>card matching game</th>
       <th>
         <a
           href="https://github.com/ayezabashir/Card-Matching-Game"
           target="_blank"
-          >Github Link</a
+          >card matching game</a
         >
       </th>
       <th>
@@ -536,10 +509,9 @@ Leetcode
           alt=""
         />
       </th>
-      <th>news webpage</th>
       <th>
         <a href="https://github.com/ayezabashir/NewsWebpage" target="_blank"
-          >Github Link</a
+          >news webpage</a
         >
       </th>
       <th>
