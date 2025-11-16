@@ -529,6 +529,26 @@ Portfolio
         />
       </th>
     </tr>
+    <tr>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/rest_api_countries"
+          target="_blank"
+          >rest_api_countries</a
+        >
+      </th>
+      <th>
+        <a href="https://rest-api-countries-ashen.vercel.app/" target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/rest_api_countries?style=flat"
+          alt=""
+        />
+      </th>
+    </tr>
   </tbody>
 </table>
 
