@@ -456,19 +456,19 @@ Portfolio
     <tr>
       <th>
         <a
-          href="https://github.com/ayezabashir/ReactJS-ToDoList"
+          href="https://github.com/ayezabashir/Card-Matching-Game"
           target="_blank"
-          >to do list</a
+          >card matching game</a
         >
       </th>
       <th>
-        <a href="https://react-js-to-do-list-one.vercel.app/" target="_blank"
+        <a href="https://card-matching-game-black.vercel.app/" target="_blank"
           >Live</a
         >
       </th>
       <th>
         <img
-          src="https://img.shields.io/github/stars/ayezabashir/ReactJS-ToDoList?style=flat"
+          src="https://img.shields.io/github/stars/ayezabashir/Card-Matching-Game?style=flat"
           alt=""
         />
       </th>
@@ -496,19 +496,19 @@ Portfolio
     <tr>
       <th>
         <a
-          href="https://github.com/ayezabashir/Card-Matching-Game"
+          href="https://github.com/ayezabashir/rest_api_countries"
           target="_blank"
-          >card matching game</a
+          >rest_api_countries</a
         >
       </th>
       <th>
-        <a href="https://card-matching-game-black.vercel.app/" target="_blank"
+        <a href="https://rest-api-countries-ashen.vercel.app/" target="_blank"
           >Live</a
         >
       </th>
       <th>
         <img
-          src="https://img.shields.io/github/stars/ayezabashir/Card-Matching-Game?style=flat"
+          src="https://img.shields.io/github/stars/ayezabashir/rest_api_countries?style=flat"
           alt=""
         />
       </th>
@@ -525,26 +525,6 @@ Portfolio
       <th>
         <img
           src="https://img.shields.io/github/stars/ayezabashir/NewsWebpage?style=flat"
-          alt=""
-        />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        <a
-          href="https://github.com/ayezabashir/rest_api_countries"
-          target="_blank"
-          >rest_api_countries</a
-        >
-      </th>
-      <th>
-        <a href="https://rest-api-countries-ashen.vercel.app/" target="_blank"
-          >Live</a
-        >
-      </th>
-      <th>
-        <img
-          src="https://img.shields.io/github/stars/ayezabashir/rest_api_countries?style=flat"
           alt=""
         />
       </th>
