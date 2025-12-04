@@ -541,6 +541,26 @@ Portfolio
         />
       </th>
     </tr>
+    <tr>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/FotoStoriz"
+          target="_blank"
+          >ReactJS_FotoStoriz</a
+        >
+      </th>
+      <th>
+        <a href="https://foto-storiz.vercel.app/" target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/FotoStoriz?style=flat"
+          alt=""
+        />
+      </th>
+    </tr>
   </tbody>
 </table>
 
