@@ -560,6 +560,24 @@ Portfolio
           alt=""
         />
       </th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/space-tourism-website"
+          target="_blank"
+          >space tourism website</a
+        >
+      </th>
+      <th>
+        <a href="https://space-tourism-website-six-zeta.vercel.app/" target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/space-tourism-website?style=flat"
+          alt=""
+        />
+      </th>
     </tr>
   </tbody>
 </table>
