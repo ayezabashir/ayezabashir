@@ -579,6 +579,44 @@ Portfolio
         />
       </th>
     </tr>
+    <tr>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/URL-shortening-API-landing-page"
+          target="_blank"
+          >URL-shortening</a
+        >
+      </th>
+      <th>
+        <a href="https://url-shortening-api-landing-page-iota.vercel.app/" target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/URL-shortening-API-landing-page?style=flat"
+          alt=""
+        />
+      </th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/Ecommerce_Admin-Dashboard"
+          target="_blank"
+          >Admin Dashboard</a
+        >
+      </th>
+      <th>
+        <a href="https://dashboard-weld-mu-13.vercel.app/" target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Ecommerce_Admin-Dashboard?style=flat"
+          alt=""
+        />
+      </th>
+    </tr>
   </tbody>
 </table>
 
