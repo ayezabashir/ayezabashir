@@ -468,13 +468,13 @@ Portfolio
     <tr>
       <th>
         <a
-          href="https://github.com/ayezabashir/Card-Matching-Game"
+          href="https://github.com/ayezabashir/E-commerce-Cart"
           target="_blank"
-          >card matching game</a
+          >E-commerce-Cart</a
         >
       </th>
       <th>
-        <a href="https://card-matching-game-black.vercel.app/" target="_blank"
+        <a href="https://e-commerce-cart-ruddy.vercel.app/" target="_blank"
           >Live</a
         >
       </th>
