@@ -433,18 +433,18 @@ Portfolio
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank"
-          >async js</a
+        <a href="https://github.com/ayezabashir/Product-Feedback" target="_blank"
+          >Product Feedback</a
         >
       </th>
       <th>
-        <a href="https://github.com/ayezabashir/aynchronous-JS" target="_blank"
+        <a href="https://product-feedback-phi-five.vercel.app/" target="_blank"
           >Live</a
         >
       </th>
       <th>
         <img
-          src="https://img.shields.io/github/stars/ayezabashir/aynchronous-JS?style=flat"
+          src="https://img.shields.io/github/stars/ayezabashir/Product-Feedback?style=flat"
           alt=""
         />
       </th>
