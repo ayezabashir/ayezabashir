@@ -1,6 +1,11 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ayeza%20Bashir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-# I am ༼ つ ◕_◕ ༽つ Ayeza, Frontend Developer from Pakistan 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ayezabashir">
+    <img src="https://komarev.com/ghpvc/?username=ayezabashir&label=Profile%20views&color=00FFFF&style=flat-square" alt="ayezabashir's profile views" />
+  </a>
+</p>
+<div align="center">
 <br>
 <a href="https://discordapp.com/users/1323909159548358687" target="_blank">
   Discord
@@ -39,7 +44,8 @@ Portfolio
   
 ### 🧠 My Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) [![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com) ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 👨‍💻 Repositories
 
@@ -266,19 +272,19 @@ Portfolio
       </th>
       <th>
         <a
-          href="https://github.com/ayezabashir/Get-an-Intervention"
+          href="https://github.com/ayezabashir/Rejouice"
           target="_blank"
-          >get an intervention</a
+          >Rejouice Landing Page</a
         >
       </th>
       <th>
-        <a href="https://get-an-intervention-nine.vercel.app/" target="_blank"
+        <a href="https://rejouice-eight.vercel.app/" target="_blank"
           >Live</a
         >
       </th>
       <th>
         <img
-          src="https://img.shields.io/github/stars/ayezabashir/Get-an-Intervention?style=flat"
+          src="https://img.shields.io/github/stars/ayezabashir/Rejouice?style=flat"
           alt=""
         />
       </th>
@@ -620,20 +626,24 @@ Portfolio
   </tbody>
 </table>
 
-
-### 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayezabashir&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayezabashir&theme=tokyonight&hide_border=false"/></p>
-<p align="center" href="https://github.com/ayezabashir/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayezabashir&theme=tokyonight&&layout=compact" />
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/ayezabashir">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayezabashir&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ayezabashir&theme=omni&no-frame=true&no-bg=false&margin-w=3)
-
-
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ayezabashir">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayezabashir&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="ayezabashir's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ayezabashir&theme=dracula&hide_border=true&cache_seconds=86400" alt="ayezabashir's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ayezabashir&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayeza Bashir's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayezabashir&theme=dracula&radius=10" alt="ayezabashir's Activity Graph" />
+</p>
 </div>
