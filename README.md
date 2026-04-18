@@ -330,18 +330,18 @@ Portfolio
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/ayezabashir/Fashion-Studio" target="_blank"
-          >fashion studio</a
+        <a href="https://github.com/ayezabashir/Gemini-Powered-Chatbot" target="_blank"
+          >Gemini-Powered-Chatbot</a
         >
       </th>
       <th>
-        <a href="https://fashion-studio-neon.vercel.app/" target="_blank"
+        <a href="https://gemini-powered-chatbot-eta.vercel.app/" target="_blank"
           >Live</a
         >
       </th>
       <th>
         <img
-          src="https://img.shields.io/github/stars/ayezabashir/Fashion-Studio?style=flat"
+          src="https://img.shields.io/github/stars/ayezabashir/Gemini-Powered-Chatbot?style=flat"
           alt=""
         />
       </th>
