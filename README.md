@@ -22,7 +22,7 @@
 <a href="https://www.leetcode.com/ayezabashir/" target="_blank">
 Leetcode
 </a> 💫
-<a href="https://ayeza-bashir-portfolio.vercel.app/" target="_blank">
+<a href="https://ayezabashirportfolio.vercel.app/" target="_blank">
 Portfolio
 </a> 
   <br>
@@ -60,6 +60,44 @@ Portfolio
     </tr>
   </thead>
   <tbody align="left">
+     <tr>
+      <th>
+        <a href="https://github.com/ayezabashir/Portfolio" target="_blank"
+          >My Portfolio</a
+        >
+      </th>
+      <th>
+        <a href="https://ayezabashirportfolio.vercel.app/" target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/Portfolio?style=flat"
+          alt=""
+        />
+      </th>
+      <th>
+        <a
+          href="https://github.com/ayezabashir/ReactJS-FlightBookingLandingPage"
+          target="_blank"
+          >flight book website</a
+        >
+      </th>
+      <th>
+        <a
+          href="https://landing-page-flight-booking-website.vercel.app/"
+          target="_blank"
+          >Live</a
+        >
+      </th>
+      <th>
+        <img
+          src="https://img.shields.io/github/stars/ayezabashir/ReactJS-FlightBookingLandingPage?style=flat"
+          alt=""
+        />
+      </th>
+    </tr>
     <tr>
       <th>
         <a
@@ -92,44 +130,6 @@ Portfolio
       <th>
         <img
           src="https://img.shields.io/github/stars/ayezabashir/Shopping-Cart?style=flat"
-          alt=""
-        />
-      </th>
-    </tr>
-    <tr>
-      <th>
-        <a href="https://github.com/ayezabashir/My-Portfolio" target="_blank"
-          >portfolio</a
-        >
-      </th>
-      <th>
-        <a href="https://ayeza-bashir-portfolio.vercel.app/" target="_blank"
-          >Live</a
-        >
-      </th>
-      <th>
-        <img
-          src="https://img.shields.io/github/stars/ayezabashir/My-Portfolio?style=flat"
-          alt=""
-        />
-      </th>
-      <th>
-        <a
-          href="https://github.com/ayezabashir/ReactJS-FlightBookingLandingPage"
-          target="_blank"
-          >flight book website</a
-        >
-      </th>
-      <th>
-        <a
-          href="https://landing-page-flight-booking-website.vercel.app/"
-          target="_blank"
-          >Live</a
-        >
-      </th>
-      <th>
-        <img
-          src="https://img.shields.io/github/stars/ayezabashir/ReactJS-FlightBookingLandingPage?style=flat"
           alt=""
         />
       </th>
@@ -330,18 +330,18 @@ Portfolio
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/ayezabashir/Gemini-Powered-Chatbot" target="_blank"
-          >Gemini-Powered-Chatbot</a
+        <a href="https://github.com/ayezabashir/My-Portfolio" target="_blank"
+          >Old Portfolio</a
         >
       </th>
       <th>
-        <a href="https://gemini-powered-chatbot-eta.vercel.app/" target="_blank"
+        <a href="https://github.com/ayezabashir/My-Portfolio" target="_blank"
           >Live</a
         >
       </th>
       <th>
         <img
-          src="https://img.shields.io/github/stars/ayezabashir/Gemini-Powered-Chatbot?style=flat"
+          src="https://img.shields.io/github/stars/ayezabashir/My-Portfolio?style=flat"
           alt=""
         />
       </th>
