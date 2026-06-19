@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const ayeza = {
@@ -21,32 +21,62 @@ const ayeza = {
   interests: ["Web Development", "AI/ML", "Data Science"],
   location: "Pakistan",
   openTo: "Frontend Roles & Freelance Opportunities",
+  portfolio: "https://ayezabashirportfolio.vercel.app/"
 };
 ```
 ---
+
 ## Let's Connect
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayezabashir/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1323909159548358687)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ayezabashir/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ayezabashir)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/ayezabashir)
 
-</div>
-
-<div align="center">
-  
-### **Email**: [ayezabashir46@gmail.com](mailto:ayezabashir46@gmail.com)
-
-**Open for collaborationss!**
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://linkedin.com/in/ayezabashir/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <br />💼
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://discordapp.com/users/1323909159548358687" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        <br />🎮
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.leetcode.com/ayezabashir/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        <br />🧩
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://codepen.io/ayezabashir" target="_blank">
+        <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+        <br />✏️
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.frontendmentor.io/profile/ayezabashir" target="_blank">
+        <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+        <br />🎯
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="6">
+      <br />
+      <a href="https://ayezabashirportfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="mailto:ayezabashir46@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 🛠️ Technical Arsenal
 
 ### **Web Technologies**
 <p align="center">
@@ -100,9 +130,9 @@ const ayeza = {
 ### **Web Tools & Utilities**
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| [**BookNest**](https://github.com/ayezabashir/BookNest-SearchBooks) | Book search with Google Books API | React, Axios, Debounce | [Live](https://book-nest-search-books.vercel.app/) |
+| [**BookNest**](https://github.com/ayezabashir/BookNest-SearchBooks) | Book search with Google Books API | React, Axios, React Router | [Live](https://book-nest-search-books.vercel.app/) |
 | [**Weather App**](https://github.com/ayezabashir/Advance-Weather-App) | Advanced weather with geolocation | React, OpenWeather API, Charts | [Live](https://advance-weather-app-theta.vercel.app/) |
-| [**URL Shortener**](https://github.com/ayezabashir/URL-shortening-API-landing-page) | URL shortening with analytics | React, Tailwind, LocalStorage | [Live](https://url-shortening-api-landing-page-iota.vercel.app/) |
+| [**URL Shortener**](https://github.com/ayezabashir/URL-shortening-API-landing-page) | URL shortening with analytics | React, cleanuri API, LocalStorage | [Live](https://url-shortening-api-landing-page-iota.vercel.app/) |
 | [**Cryptocurrency Search**](https://github.com/ayezabashir/Crytpocurrency-Search) | Real-time crypto price tracker | React, CoinGecko API, Axios | [Live](https://crytpocurrency-search.vercel.app/) |
 | [**Space Tourism**](https://github.com/ayezabashir/space-tourism-website) | Interactive space travel guide | React, React Router, CSS | [Live](https://space-tourism-website-six-zeta.vercel.app/) |
 
@@ -110,7 +140,7 @@ const ayeza = {
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | [**LULC Classification**](https://github.com/ayezabashir/land-use-land-cover-classification) | Land Use Land Cover classification using satellite imagery | Python, PyTorch, NumPy, Matplotlib | [Repo](https://github.com/ayezabashir/land-use-land-cover-classification) |
-| [**Web Automation & Scraping**](https://github.com/ayezabashir/WebAutomationAndScraping) | Automated web scraping and data extraction pipeline | Python, Selenium, BeautifulSoup, Pandas | [Repo](https://github.com/ayezabashir/WebAutomationAndScraping) |
+| [**Web Automation & Scraping**](https://github.com/ayezabashir/WebAutomationAndScraping) | Automated web scraping and data extraction pipeline | Python, Selenium, Pandas | [Repo](https://github.com/ayezabashir/WebAutomationAndScraping) |
 
 ### **Learning & Competitive Programming**
 | Project | Description | Tech Stack | Live Demo |
@@ -118,7 +148,6 @@ const ayeza = {
 | [**Data Structures & Algorithms**](https://github.com/ayezabashir/Programming_Problems_Solved_Using_Javascript) | 100+ LeetCode solutions | JavaScript, Python | [LeetCode](https://leetcode.com/u/ayezabashir/) |
 | [**Vanilla JS Projects**](https://github.com/ayezabashir/Vanilla-Javascript-Projects) | 20+ DOM manipulation challenges | HTML, CSS, JavaScript | [Repo](https://github.com/ayezabashir/Vanilla-Javascript-Projects) |
 | [**React Mini Projects**](https://github.com/ayezabashir/ReactJs-Mini-Projects) | 15+ React component challenges | React, Hooks, Context API | [Repo](https://github.com/ayezabashir/ReactJs-Mini-Projects) |
-| [**JS Challenges**](https://github.com/ayezabashir/JS-Challenges) | JavaScript problem-solving repository | JavaScript, ES6+ | [Repo](https://github.com/ayezabashir/JS-Challenges) |
 
 ---
 
